@@ -1,5 +1,19 @@
 ![reddit-post](reddit-post-1.png)
 
+
+Try This Prompt on Qwen2.5-Coder:32b-Instruct-Q8_0:
+```
+    Create a single HTML file that sets up a basic Three.js scene with a rotating 3D globe. The globe should have high detail (64 segments), use a placeholder texture for the Earth's surface, and include ambient and directional lighting for realistic shading. Implement smooth rotation animation around the Y-axis, handle window resizing to maintain proper proportions, and use antialiasing for smoother edges.
+    Explanation:
+    Scene Setup : Initializes the scene, camera, and renderer with antialiasing.
+    Sphere Geometry : Creates a high-detail sphere geometry (64 segments).
+    Texture : Loads a placeholder texture using THREE.TextureLoader.
+    Material & Mesh : Applies the texture to the sphere material and creates a mesh for the globe.
+    Lighting : Adds ambient and directional lights to enhance the scene's realism.
+    Animation : Continuously rotates the globe around its Y-axis.
+    Resize Handling : Adjusts the renderer size and camera aspect ratio when the window is resized.
+```
+
 # TODO: 
 
 - install LM Studio from [here](https://lmstudio.ai/)
