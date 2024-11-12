@@ -1,5 +1,8 @@
 # TODO: 
+
 - install LM Studio from [here](https://lmstudio.ai/)
+
+## GET THE MODELS: 
 - download and run from [here](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)
 - download and run from [here](https://huggingface.co/Qwen/Qwen2.5-Coder-7B)
 - [here](https://huggingface.co/unsloth/Qwen2.5-Coder-0.5B)
