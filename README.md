@@ -1,3 +1,5 @@
+![reddit-post](reddit-post-1.png)
+
 # TODO: 
 
 - install LM Studio from [here](https://lmstudio.ai/)
